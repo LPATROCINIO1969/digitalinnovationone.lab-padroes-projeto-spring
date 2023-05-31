@@ -6,6 +6,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 
 /**
  * Interface que define o padrão <b>strategy</b> no domínio do cliente.
+ * @author VENILTON FALVO JR.
+ * @version 1.0
  */
 
 public interface ClienteService {

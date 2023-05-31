@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"one.digitalinnovation.gof"},{"l":"one.digitalinnovation.gof.controller"},{"l":"one.digitalinnovation.gof.model"},{"l":"one.digitalinnovation.gof.repository"},{"l":"one.digitalinnovation.gof.service"},{"l":"one.digitalinnovation.gof.service.impl"}];updateSearchResults();
